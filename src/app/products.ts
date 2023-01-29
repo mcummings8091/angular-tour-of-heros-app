@@ -21,7 +21,7 @@ export const products = [
   {
     id: 3,
     name: 'Welcome Skateboards Nora Pro Model',
-    price: 299,
+    price: 80,
     description: ''
   }
 ];
