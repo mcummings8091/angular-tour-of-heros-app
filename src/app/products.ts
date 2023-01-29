@@ -15,7 +15,7 @@ export const products = [
   {
     id: 2,
     name: 'Rayne Misfortune',
-    price: 699,
+    price: 100,
     description: 'Patrick Switzers "Fortune" deck in a smaller package with cracy concave variations to keep you locked in.'
   },
   {
