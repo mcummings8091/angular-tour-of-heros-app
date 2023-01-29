@@ -10,7 +10,7 @@ export const products = [
     id: 1,
     name: 'Moonshine RumRunner Complete ',
     price: 799,
-    description: 'The Moonshine RumrRunner with a set of Cast Ronin Trucks, Venom Bushings, 80A Cadillac Swingers Wheels and Bones Swiss Ceramic Bearings.'
+    description: 'The Moonshine RumRunner with a set of Cast Ronin Trucks, Venom Bushings, 80A Cadillac Swingers Wheels and Bones Swiss Ceramic Bearings.'
   },
   {
     id: 2,
