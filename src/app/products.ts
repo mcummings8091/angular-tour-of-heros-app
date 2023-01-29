@@ -8,19 +8,19 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'Moonshine RumRunner Complete ',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'The Moonshine RumrRunner with a set of Cast Ronin Trucks, Venom Bushings, 80A Cadillac Swingers Wheels and Bones Swiss Ceramic Bearings.'
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Rayne Misfortune',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Patrick Switzers "Fortune" deck in a smaller package with cracy concave variations to keep you locked in.'
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Welcome Skateboards Nora Pro Model',
     price: 299,
     description: ''
   }
